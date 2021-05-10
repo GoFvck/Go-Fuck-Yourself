@@ -5,4 +5,4 @@ i dont really know how to format the Requirements File so im sorry.
 
 And its not cleaned of imports that i didnt use at the end.
 
-The Name is meant to be Funny.
+The name shouldn't be meant seriously
