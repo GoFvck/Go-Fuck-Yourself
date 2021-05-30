@@ -1,3 +1,4 @@
 - Use an Proxy as an "VPN"
 - Switch GeoIP from IPInfo.io to GeoIP2
 - Youtube View Bot for Livestreams
+- Email Spoofing
