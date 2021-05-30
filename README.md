@@ -13,4 +13,4 @@ Updated(30.05.2021):
 - cleaned the Imports a bit
 - Added all types of clear and a check wich OS you are on!
 - ProxyscrapeAPI is implemented but work in progress!
-- Added a Sniffer with Filter Options!
+- Added a Sniffer with Filter Options
