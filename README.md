@@ -11,6 +11,6 @@ Updated(30.05.2021):
 - Added 2 Types of Mail Spammer!
 - Tried to get an new sorted Proxy Scrapper
 - cleaned the Imports a bit
-- Added all types of clean and a check wich OS you are on!
+- Added all types of clear and a check wich OS you are on!
 - ProxyscrapeAPI is implemented but work in progress!
 - Added a Sniffer with Filter Options!
